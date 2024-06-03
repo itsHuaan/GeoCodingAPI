@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GeoCodingAPI</string>
+    <string name="search_for_a_location">Search for a location…</string>
+</resources>
